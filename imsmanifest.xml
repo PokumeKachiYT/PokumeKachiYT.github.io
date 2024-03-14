@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="_6ciKvk1YQHF_course_id" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                              http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                              http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                              http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                              http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>2004 3rd Edition</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="Trò_chơi:_Thủ_môn_siêu_phàm_ORG">
+    <organization identifier="Trò_chơi:_Thủ_môn_siêu_phàm_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>Trò chơi: Thủ môn siêu phàm</title>
+      <item identifier="Sachwonderful_SCO" identifierref="__6ciKvk1YQHF_course_id_RES" isvisible="true">
+        <title>Trò chơi: Thủ môn siêu phàm</title>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true" />
+        <imsss:deliveryControls tracked="true" completionSetByContent="false" objectiveSetByContent="false" />
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6ciKvk1YQHF_course_id_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5u0hUmmLoU8.png" />
+      <file href="mobile/5b5VHj7v7P3.png" />
+      <file href="mobile/5gtr2KDE4ah.png" />
+      <file href="mobile/6Xj0dcGV6jY.png" />
+      <file href="mobile/6c9ZwKON4aV.png" />
+      <file href="mobile/67b1xWskuOR.png" />
+      <file href="mobile/613PfGUt4u4_X.png" />
+      <file href="story_content/635yt6BPVmp_44100_56_1.mp3" />
+      <file href="mobile/62PqNsc92zC.png" />
+      <file href="mobile/6nI8fHsu4Xb_P_0_0_552_80.png" />
+      <file href="mobile/64VzqG6THkh.png" />
+      <file href="mobile/6eF5GpMt639.png" />
+      <file href="mobile/6nI8fHsu4Xb_P_488_0_64_80.png" />
+      <file href="mobile/6PCJygPIs4H.png" />
+      <file href="mobile/5XHLHPLulrt.png" />
+      <file href="mobile/5rWIY18NsVm.png" />
+      <file href="mobile/6E685lfTPZB.png" />
+      <file href="mobile/5Xrks46IlvJ.png" />
+      <file href="mobile/6Nc5IreiC3E.png" />
+      <file href="story_content/5eyO8Hat6ws_44100_56_1.mp3" />
+      <file href="mobile/6cWvQ5yAhWf_M_3840_3840.png" />
+      <file href="mobile/6F26ipSoUFY_M_746_746.png" />
+      <file href="mobile/6SvGJbfbXpI_M_616_616.png" />
+      <file href="mobile/5gxHFaAphD9_M_3504_3504.png" />
+      <file href="story_content/5zmNpHJ6W2x_44100_56_0.mp3" />
+      <file href="story_content/6Ju1wOQUd1S_44100_56_1.mp3" />
+      <file href="story_content/6liHneTsnCJ_44100_56_1.mp3" />
+      <file href="mobile/65okxXuMFyH.png" />
+      <file href="mobile/6g8K4Xegh7F.png" />
+      <file href="mobile/6KBc7g8EtJo_M_712_712.png" />
+      <file href="mobile/6kLhIEJMTHc_M_602_602.png" />
+      <file href="story_content/60dujyRDfLW_44100_56_1.mp3" />
+      <file href="mobile/5yZhVI57nHs_M_832_832.png" />
+      <file href="story_content/5Z0jytyrXUB_44100_56_1.mp3" />
+      <file href="mobile/6LpAQnXeAMP_P_3_1_23_16.png" />
+      <file href="mobile/6GZk1jUkHfR_P_5_6_22_15.png" />
+      <file href="mobile/5qDrGAKo3RB_P_6_0_26_17.png" />
+      <file href="mobile/6VghPc5KRrw_P_0_6_32_22.png" />
+      <file href="mobile/6dsYR0x4OMI.png" />
+      <file href="mobile/5f6jXj2v1lm.png" />
+      <file href="story_content/5jiM61N6Q0k_44100_56_1.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5hqG6URaz7B.js" />
+      <file href="html5/data/js/5lQkf7xnh7b.js" />
+      <file href="html5/data/js/5vN5N9fB4kh.js" />
+      <file href="html5/data/js/68W4AiwgVVr.js" />
+      <file href="html5/data/js/6DIO2nvgQZ4.js" />
+      <file href="html5/data/js/6EIWNbxhqk9.js" />
+      <file href="html5/data/js/6LWJuzfgG7e.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
